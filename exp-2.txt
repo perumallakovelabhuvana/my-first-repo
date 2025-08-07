@@ -1,4 +1,0 @@
-Name    : P.Bhuvana
-Course   :Bsc-Computer science
-I learned about Github to create and upload a file and copy our url for to access a unknown person easily 
-
